@@ -18,6 +18,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.facebook.com/burobugyotski">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@4.0.0/icons/facebook.svg" alt="Facebook" height="30" width="30" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/480px-Facebook_Logo_%282019%29.png" alt="Facebook" height="30" width="30" />
   </a>
 </p>
