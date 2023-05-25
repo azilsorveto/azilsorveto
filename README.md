@@ -21,6 +21,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/480px-Facebook_Logo_%282019%29.png" alt="Facebook" height="30" width="30" />
   </a>
   <a href="https://www.linkedin.com/in/azil-sorveto-7b5027258/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@4.0.0/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" />
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="30" />
   </a>
 </p>
