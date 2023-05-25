@@ -24,3 +24,6 @@
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="30" />
   </a>
 </p>
+<div align="center">
+  <p>"404: Humor not found. Please refresh and try again."</p>
+</div>
