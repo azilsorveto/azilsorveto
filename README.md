@@ -25,5 +25,5 @@
   </a>
 </p>
 <div align="center">
-  <p>"404: Humor not found. Please refresh and try again."</p>
+  <p>"404: Skills not found. Please refresh and try again."</p>
 </div>
