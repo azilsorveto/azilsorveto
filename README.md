@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Azil</h1>
-<h3 align="center">A passionate web developer from Philiphines</h3>
+<h3 align="center">"I don't always write code, but when I do, I make sure it's bug-tastic!"</h3>
 
 <h2 align="left">LETS GO DEVELOPERS !!!</h2>
 
